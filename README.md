@@ -1,4 +1,4 @@
 # merge-conflict
 Hi Everyone!
-I am Developer
-I am from Delhi
+I am Chaitanya1
+I am from Hyderabad
